@@ -1,0 +1,9 @@
+autom4te.cache
+Makefile
+config.log
+config.status
+*.o
+*.a
+*.dll
+/build/
+/bin/
